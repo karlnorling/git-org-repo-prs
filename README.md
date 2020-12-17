@@ -11,4 +11,4 @@ Two env vars are required:
 
 ## Run
 
-`node git-repo-commit-stat.js
+`node git-repo-commit-stat.js`
